@@ -1,0 +1,8 @@
+apophysis-flames
+challenges-code-forces
+challenges-project-euler
+challenges-sphere-online-judge
+challenges-uva-online-judge
+scrypts
+small-projects
+test
